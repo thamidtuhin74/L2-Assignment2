@@ -1,4 +1,4 @@
-# Student Portal Server Side
+# Assignment-2 Server Side
 
 ## Overview
 
@@ -57,22 +57,24 @@ Ensure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/thamidtuhin74/L2-Assignment2.git
 
 2. Install dependencies:
     ```bash
-    cd student-portal-server
+    cd L2-Assignment2
     npm install
 
 3. Configure environment variables:
 
     Create a .env file in the root directory and define the following variables:
     ```
-    USER_NAME=username_of_mongodb_user
-    PASSWORD=password_of_mongodb_user
+    NODE_ENV=
+    PORT=
+    DATABASE_URL=
+    BCRYPT_SALT_ROUNDS=
 
 4. Start the server:
     ```
-    npm start
+    npm run start
 
 

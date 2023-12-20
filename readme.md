@@ -2,11 +2,11 @@
 
 ## Overview
 
-The Student Portal Server is a backend application that serves as the backbone for the Student Portal system. It handles user authentication, manages student data, and provides API endpoints for communication with the frontend.
+Assignment-2 Server is a backend application , Backed always serves as the backbone for a system. It handles user authentication, manages User data, Perform GET, POST, PUT, Delete methods, Calculated Total Cost of Order and provides API endpoints for communication with the frontend.
 
 ## Table of Contents
 
-- [API Documentation](#api-documentation)
+- [API EndPoints](#api-endpoints)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
@@ -16,9 +16,9 @@ The Student Portal Server is a backend application that serves as the backbone f
 - [Contributing](#contributing)
 - [License](#license) -->
 
-## API Documentation
+## API EndPoints
 
-#### I used vercel to online my ServerAPI links are given below ⬇
+#### I used vercel to online my ServerAPI endpoints are given below ⬇
 - Server home : https://assignment-2-level-2-0.vercel.app/
 - All Users : https://assignment-2-level-2-0.vercel.app/api/users/
 - Single User: https://assignment-2-level-2-0.vercel.app/api/users/9/orders/total-price
@@ -28,7 +28,8 @@ The Student Portal Server is a backend application that serves as the backbone f
 
 ## Features
 
-
+- Perform GET, POST, PUT, Delete methods, 
+- Calculated Total Cost
 - RESTful API for communication with the frontend
 - Admin Can ADD/ EDIT/ Remove a User
 
